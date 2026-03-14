@@ -10,11 +10,11 @@ namespace Ex2
     {
         static void Main(string[] args)
         {
-            int n1, n2;
+            double n1, n2;
             Console.Write("Digite um numero: ");
-            n1 = int.Parse(Console.ReadLine());
+            n1 = double.Parse(Console.ReadLine());
             Console.Write("Digite outro numero: ");
-            n2 = int.Parse(Console.ReadLine());
+            n2 = double.Parse(Console.ReadLine());
             n1 = n1 + n2;
             Console.WriteLine("Total: {0} ", n1);
         }
