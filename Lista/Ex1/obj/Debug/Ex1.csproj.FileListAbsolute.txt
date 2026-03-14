@@ -5,3 +5,10 @@ C:\Users\lab2094\source\repos\AtividadeJefferson1203\Lista\Ex1\obj\Debug\Ex1.csp
 C:\Users\lab2094\source\repos\AtividadeJefferson1203\Lista\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
 C:\Users\lab2094\source\repos\AtividadeJefferson1203\Lista\Ex1\obj\Debug\Ex1.exe
 C:\Users\lab2094\source\repos\AtividadeJefferson1203\Lista\Ex1\obj\Debug\Ex1.pdb
+C:\Users\washi\source\repos\Lista\Lista\Ex1\bin\Debug\Ex1.exe.config
+C:\Users\washi\source\repos\Lista\Lista\Ex1\bin\Debug\Ex1.exe
+C:\Users\washi\source\repos\Lista\Lista\Ex1\bin\Debug\Ex1.pdb
+C:\Users\washi\source\repos\Lista\Lista\Ex1\obj\Debug\Ex1.csproj.AssemblyReference.cache
+C:\Users\washi\source\repos\Lista\Lista\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\washi\source\repos\Lista\Lista\Ex1\obj\Debug\Ex1.exe
+C:\Users\washi\source\repos\Lista\Lista\Ex1\obj\Debug\Ex1.pdb
